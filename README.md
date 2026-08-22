@@ -469,19 +469,22 @@ Example:
 
 ### Page 1 — Smart Manufacturing Quality Intelligence
 
-![Page 1](Screenshots/page1.png)
+<img width="1322" height="744" alt="Overview" src="https://github.com/user-attachments/assets/8eeb0254-abe9-43e8-aa00-d298f3d5edca" />
 
 ### Page 2 — Quality & Defect Intelligence
 
-![Page 2](Screenshots/page2.png)
+<img width="1324" height="745" alt="Quality   Defect" src="https://github.com/user-attachments/assets/3c6cae60-7bea-4495-b729-746158c3c3bd" />
+
 
 ### Page 3 — Machine Health & Predictive Maintenance
 
-![Page 3](Screenshots/page3.png)
+<img width="1326" height="745" alt="Machine health analysis" src="https://github.com/user-attachments/assets/6ef64be4-f125-4d6f-a404-786dd9f65bdc" />
+
 
 ### Page 4 — Cost, Efficiency & Root Cause
 
-![Page 4](Screenshots/page4.png)
+<img width="1326" height="746" alt="Root cause analysis" src="https://github.com/user-attachments/assets/077bd255-dbec-45c1-991b-58efc886304e" />
+
 
 ---
 
